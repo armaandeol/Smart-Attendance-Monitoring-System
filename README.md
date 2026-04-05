@@ -4,7 +4,7 @@
 
 An intelligent AI-powered attendance system that revolutionizes traditional classroom attendance tracking through facial recognition technology. Built for the modern classroom, this system eliminates manual roll calls and provides real-time attendance monitoring.
 
-![Landing Page](./frontend/public/landing_page.png)
+![Landing Page](./public/landing_page.png)
 
 ## 🌟 Overview
 
@@ -41,11 +41,11 @@ The Smart Attendance Monitoring System leverages cutting-edge facial recognition
 ## 📸 Application Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](frontend/public/landing_page.png)
+![Landing Page](./public/landing_page.png)
 *Welcome screen with compelling messaging about AI-powered attendance*
 
 ### 🔐 User Registration
-![Sign Up](frontend/public/sign_up.png)
+![Sign Up](./public/sign_up.png)
 *Secure registration with Google OAuth integration*
 
 ### 📊 Dashboard Overview
