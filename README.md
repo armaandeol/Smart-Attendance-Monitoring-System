@@ -41,35 +41,35 @@ The Smart Attendance Monitoring System leverages cutting-edge facial recognition
 ## 📸 Application Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](./frontend/public/landing_page.png)
+![Landing Page](frontend/public/landing_page.png)
 *Welcome screen with compelling messaging about AI-powered attendance*
 
 ### 🔐 User Registration
-![Sign Up](./frontend/public/sign_up.png)
+![Sign Up](frontend/public/sign_up.png)
 *Secure registration with Google OAuth integration*
 
 ### 📊 Dashboard Overview
-![Dashboard](./frontend/public/dashboard.png)
+![Dashboard](frontend/public/dashboard.png)
 *Comprehensive dashboard showing classes, students, and attendance metrics*
 
 ### 🏫 Class Management
-![Create Class](./frontend/public/create_a_class.png)
+![Create Class](frontend/public/create_a_class.png)
 *Easy class creation with scheduling capabilities*
 
 ### 👥 Student Registration
-![Add Student](./frontend/public/add_student.png)
+![Add Student](frontend/public/add_student.png)
 *Student enrollment with roll number and contact information*
 
 ### 📷 Face Registration
-![Face Registration](./frontend/public/face_registration.png)
+![Face Registration](frontend/public/face_registration.png)
 *Biometric registration for accurate facial recognition*
 
 ### 🎥 Live Attendance Monitoring
-![Class Session](./frontend/public/class_session_with_camera_feed.png)
+![Class Session](frontend/public/class_session_with_camera_feed.png)
 *Real-time attendance tracking with live camera feed and student roster*
 
 ### 📋 Attendance Reports
-![Attendance Report](./frontend/public/attendance_report.png)
+![Attendance Report](frontend/public/attendance_report.png)
 *Detailed attendance reports with timestamps and statistics*
 
 ## 🚀 Getting Started
@@ -300,3 +300,5 @@ This project demonstrates proficiency in:
 - **User Experience**: Intuitive design and accessibility
 - **Software Architecture**: Scalable and maintainable code structure
 - **DevOps Practices**: Build tools, deployment, and monitoring
+
+**Built with ❤️ for the future of education technology**
