@@ -49,27 +49,27 @@ The Smart Attendance Monitoring System leverages cutting-edge facial recognition
 *Secure registration with Google OAuth integration*
 
 ### 📊 Dashboard Overview
-![Dashboard](frontend/public/dashboard.png)
+![Dashboard](./public/dashboard.png)
 *Comprehensive dashboard showing classes, students, and attendance metrics*
 
 ### 🏫 Class Management
-![Create Class](frontend/public/create_a_class.png)
+![Create Class](./public/create_a_class.png)
 *Easy class creation with scheduling capabilities*
 
 ### 👥 Student Registration
-![Add Student](frontend/public/add_student.png)
+![Add Student](./public/add_student.png)
 *Student enrollment with roll number and contact information*
 
 ### 📷 Face Registration
-![Face Registration](frontend/public/face_registration.png)
+![Face Registration](./public/face_registration.png)
 *Biometric registration for accurate facial recognition*
 
 ### 🎥 Live Attendance Monitoring
-![Class Session](frontend/public/class_session_with_camera_feed.png)
+![Class Session](./public/class_session_with_camera_feed.png)
 *Real-time attendance tracking with live camera feed and student roster*
 
 ### 📋 Attendance Reports
-![Attendance Report](frontend/public/attendance_report.png)
+![Attendance Report](./public/attendance_report.png)
 *Detailed attendance reports with timestamps and statistics*
 
 ## 🚀 Getting Started
